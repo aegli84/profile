@@ -2,14 +2,10 @@
 
 ### Story of my life in a nutshell: late bloomer, the end 😁
 
-<br>
-
 ### In all seriousness, I've always wanted to learn to code but I shide away because, oh well, life happened and also I thoguht I had to be some kind of genius to learn it. 
-<br>
 
 ### A decade ago, there was a certain glass ceiling to the industry but not anymore. I live by the motto, age is just a number, do what you always wanted to do because it's never too late!
 <br>
-<br />
 
 ## Languages and Tools:
 <br>

@@ -8,7 +8,7 @@
 <br>
 
 ## Languages and Tools:
-<br>
+
 
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/bidodev/instagram-lookalike/master/doc/img/html.png" /> 
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/bidodev/instagram-lookalike/master/doc/img/css.png" />
